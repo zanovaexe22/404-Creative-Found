@@ -1,0 +1,14 @@
+{
+  "name": "404-creative-found",
+  "version": "1.0.0",
+  "description": "Portofolio tim 404 Creative Found",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
