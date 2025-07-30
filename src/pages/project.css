@@ -1,0 +1,23 @@
+.projects-wrap {
+  text-align: center;
+}
+
+.judul {
+  font-size: 1.6rem;
+  margin-bottom: 24px;
+  font-weight: 600;
+  color: #232946;
+  letter-spacing: 1px;
+}
+
+.not-found {
+  font-size: 1.16rem;
+  color: #777;
+  margin-top: 32px;
+  padding: 20px 0;
+  background: #f0f1f3;
+  border-radius: 8px;
+  display: inline-block;
+  min-width: 320px;
+  box-shadow: 0 2px 8px #2329461a;
+}
